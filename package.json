@@ -1,0 +1,25 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000a\u0000b\u00006\u0000-\u0000n\u0000e\u0000x\u0000t\u0000j\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000r\u0000u\u0000n\u0000 \u0000-\u0000\r\u0000 \u0000\r\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000n\u0000s\u0000t\u0000a\u0000l\u0000l\u0000\r\u0000 \u0000\r\u0000 \u0000n\u0000p\u0000m\u0000 \u0000r\u0000u\u0000n\u0000 \u0000d\u0000e\u0000v\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-markdown": "^4.0.3",
+    "react-select": "^2.1.2",
+    "styled-jsx": "^3.1.1"
+  }
+}
